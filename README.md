@@ -10,6 +10,7 @@ I'm excited about the opportunity to contribute my skills and expertise to your 
 
 Let's connect and explore how I can contribute to your vision!
 
+<img src="./img/readme_image1.jpg" alt="Portfolio hero image" width="600">
 
 ### Tools I used
 - ![Static Badge](https://img.shields.io/badge/-ffffff?style=social&logo=HTML5) HTML
@@ -24,4 +25,4 @@ Let's connect and explore how I can contribute to your vision!
 Click here to visit the website.  
 🔗[yuko-suga.com](https://yukosuga.github.io/portfolio/) 👩🏻‍💻  
   
-![Github page top image](./img/readme_image.png) 
+<img src="./img/readme_image2.jpg" alt="Portfolio hero image" width="600">
